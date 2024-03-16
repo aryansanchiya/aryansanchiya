@@ -10,6 +10,7 @@ CSS<br>
 JAVASCRIPT<br>
 Python<br>
 Django<br>
+Django Rest Framework<br>
 AJAX<br>
 Pytorch<br>
 Git<br>
